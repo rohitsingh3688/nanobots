@@ -3,7 +3,7 @@
 ## work-in-progress
 
 
-1. This HTTP server runs on vertx.
+1. This Vertx HTTP server runs on 8443 PORT.
 2. Import it as maven project to get started.
 3. Main api it can served are as follows:
 
