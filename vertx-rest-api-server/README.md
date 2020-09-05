@@ -9,6 +9,6 @@
 
 ```POST``` - ```/v1/nanobots/rest/api/add/projection``` \
 ```GET```  - ```/v1/nanobots/rest/api/retrieve/projection``` \
-```GET```  - ```/v1/nanobots/rest/api/retrieve/employees``` \
+```GET```  - ```/v1/nanobots/rest/api/retrieve/employees```
 
 
